@@ -45,7 +45,7 @@ A web application that combines real-time language translation with emergency se
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/mithlohar144/universal-translator-emergency.git
+git clone https://github.com/<yourusername>/universal-translator-emergency.git
 cd universal-translator-emergency
 ```
 
