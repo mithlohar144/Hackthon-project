@@ -1,0 +1,83 @@
+[2025-03-24 18:36:54,851] INFO in _internal:  * Restarting with stat
+[2025-03-24 18:37:21,935] INFO in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.36.162:5001
+[2025-03-24 18:37:21,935] INFO in _internal: [33mPress CTRL+C to quit[0m
+[2025-03-24 18:37:21,941] INFO in _internal:  * Restarting with stat
+[2025-03-24 18:37:22,532] WARNING in _internal:  * Debugger is active!
+[2025-03-24 18:37:22,539] INFO in _internal:  * Debugger PIN: 196-293-063
+[2025-03-24 18:37:22,769] INFO in _internal: 127.0.0.1 - - [24/Mar/2025 18:37:22] "GET / HTTP/1.1" 200 -
+[2025-03-24 18:37:41,666] INFO in _internal: 127.0.0.1 - - [24/Mar/2025 18:37:41] "GET / HTTP/1.1" 200 -
+[2025-03-24 18:43:27,651] INFO in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.36.162:5001
+[2025-03-24 18:43:27,701] INFO in _internal: [33mPress CTRL+C to quit[0m
+[2025-03-24 18:43:27,706] INFO in _internal:  * Restarting with stat
+[2025-03-24 18:43:28,319] WARNING in _internal:  * Debugger is active!
+[2025-03-24 18:43:28,389] INFO in _internal:  * Debugger PIN: 196-293-063
+[2025-03-24 18:43:32,040] INFO in _internal: 127.0.0.1 - - [24/Mar/2025 18:43:32] "GET / HTTP/1.1" 200 -
+[2025-03-24 18:50:06,692] INFO in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.36.162:5001
+[2025-03-24 18:50:06,692] INFO in _internal: [33mPress CTRL+C to quit[0m
+[2025-03-24 18:50:06,695] INFO in _internal:  * Restarting with stat
+[2025-03-24 18:50:07,235] WARNING in _internal:  * Debugger is active!
+[2025-03-24 18:50:07,240] INFO in _internal:  * Debugger PIN: 196-293-063
+[2025-03-24 18:50:09,705] INFO in _internal: 127.0.0.1 - - [24/Mar/2025 18:50:09] "GET / HTTP/1.1" 200 -
+[2025-03-24 18:51:16,707] INFO in _internal: 127.0.0.1 - - [24/Mar/2025 18:51:16] "[33mPOST /api/emergency/help HTTP/1.1[0m" 404 -
+[2025-03-24 18:55:12,021] INFO in _internal: 127.0.0.1 - - [24/Mar/2025 18:55:12] "[33mPOST /api/emergency/help HTTP/1.1[0m" 404 -
+[2025-03-24 18:56:57,321] INFO in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.36.162:5001
+[2025-03-24 18:56:57,321] INFO in _internal: [33mPress CTRL+C to quit[0m
+[2025-03-24 18:56:57,329] INFO in _internal:  * Restarting with stat
+[2025-03-24 18:56:57,947] WARNING in _internal:  * Debugger is active!
+[2025-03-24 18:56:57,953] INFO in _internal:  * Debugger PIN: 196-293-063
+[2025-03-24 18:57:03,382] INFO in _internal: 127.0.0.1 - - [24/Mar/2025 18:57:03] "GET / HTTP/1.1" 200 -
+[2025-03-24 18:57:03,684] INFO in _internal: 127.0.0.1 - - [24/Mar/2025 18:57:03] "POST /api/emergency/nearest HTTP/1.1" 200 -
+[2025-03-24 19:01:01,136] INFO in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.36.162:5001
+[2025-03-24 19:01:01,136] INFO in _internal: [33mPress CTRL+C to quit[0m
+[2025-03-24 19:01:01,141] INFO in _internal:  * Restarting with stat
+[2025-03-24 19:01:01,647] WARNING in _internal:  * Debugger is active!
+[2025-03-24 19:01:01,650] INFO in _internal:  * Debugger PIN: 196-293-063
+[2025-03-24 19:01:06,333] INFO in _internal: 127.0.0.1 - - [24/Mar/2025 19:01:06] "GET / HTTP/1.1" 200 -
+[2025-03-24 19:01:10,255] INFO in _internal: 127.0.0.1 - - [24/Mar/2025 19:01:10] "POST /api/emergency/nearest HTTP/1.1" 200 -
+[2025-03-24 19:01:22,633] INFO in _internal: 127.0.0.1 - - [24/Mar/2025 19:01:22] "POST /api/emergency/nearest HTTP/1.1" 200 -
+[2025-03-24 19:04:00,262] INFO in _internal: 127.0.0.1 - - [24/Mar/2025 19:04:00] "GET / HTTP/1.1" 200 -
+[2025-03-24 19:04:05,311] INFO in _internal: 127.0.0.1 - - [24/Mar/2025 19:04:05] "POST /api/emergency/nearest HTTP/1.1" 200 -
+[2025-03-24 19:04:13,594] INFO in _internal: 127.0.0.1 - - [24/Mar/2025 19:04:13] "[33mPOST /api/emergency/help HTTP/1.1[0m" 404 -
+[2025-03-24 19:04:27,178] ERROR in app: Language detection error: 'GoogleTranslator' object has no attribute 'detect'
+[2025-03-24 19:04:27,182] INFO in _internal: 127.0.0.1 - - [24/Mar/2025 19:04:27] "[35m[1mPOST /detect-language HTTP/1.1[0m" 500 -
+[2025-03-24 19:04:36,357] ERROR in app: Language detection error: 'GoogleTranslator' object has no attribute 'detect'
+[2025-03-24 19:04:36,359] INFO in _internal: 127.0.0.1 - - [24/Mar/2025 19:04:36] "[35m[1mPOST /detect-language HTTP/1.1[0m" 500 -
+[2025-03-24 19:05:36,152] INFO in _internal: 127.0.0.1 - - [24/Mar/2025 19:05:36] "POST /translate HTTP/1.1" 200 -
+[2025-03-24 19:05:45,160] INFO in _internal: 127.0.0.1 - - [24/Mar/2025 19:05:45] "POST /translate HTTP/1.1" 200 -
+[2025-03-24 19:06:00,414] INFO in _internal: 127.0.0.1 - - [24/Mar/2025 19:06:00] "POST /translate HTTP/1.1" 200 -
+[2025-03-24 19:06:03,145] ERROR in app: Translation error: zh --> No support for the provided language.
+Please select on of the supported languages:
+{'afrikaans': 'af', 'albanian': 'sq', 'amharic': 'am', 'arabic': 'ar', 'armenian': 'hy', 'assamese': 'as', 'aymara': 'ay', 'azerbaijani': 'az', 'bambara': 'bm', 'basque': 'eu', 'belarusian': 'be', 'bengali': 'bn', 'bhojpuri': 'bho', 'bosnian': 'bs', 'bulgarian': 'bg', 'catalan': 'ca', 'cebuano': 'ceb', 'chichewa': 'ny', 'chinese (simplified)': 'zh-CN', 'chinese (traditional)': 'zh-TW', 'corsican': 'co', 'croatian': 'hr', 'czech': 'cs', 'danish': 'da', 'dhivehi': 'dv', 'dogri': 'doi', 'dutch': 'nl', 'english': 'en', 'esperanto': 'eo', 'estonian': 'et', 'ewe': 'ee', 'filipino': 'tl', 'finnish': 'fi', 'french': 'fr', 'frisian': 'fy', 'galician': 'gl', 'georgian': 'ka', 'german': 'de', 'greek': 'el', 'guarani': 'gn', 'gujarati': 'gu', 'haitian creole': 'ht', 'hausa': 'ha', 'hawaiian': 'haw', 'hebrew': 'iw', 'hindi': 'hi', 'hmong': 'hmn', 'hungarian': 'hu', 'icelandic': 'is', 'igbo': 'ig', 'ilocano': 'ilo', 'indonesian': 'id', 'irish': 'ga', 'italian': 'it', 'japanese': 'ja', 'javanese': 'jw', 'kannada': 'kn', 'kazakh': 'kk', 'khmer': 'km', 'kinyarwanda': 'rw', 'konkani': 'gom', 'korean': 'ko', 'krio': 'kri', 'kurdish (kurmanji)': 'ku', 'kurdish (sorani)': 'ckb', 'kyrgyz': 'ky', 'lao': 'lo', 'latin': 'la', 'latvian': 'lv', 'lingala': 'ln', 'lithuanian': 'lt', 'luganda': 'lg', 'luxembourgish': 'lb', 'macedonian': 'mk', 'maithili': 'mai', 'malagasy': 'mg', 'malay': 'ms', 'malayalam': 'ml', 'maltese': 'mt', 'maori': 'mi', 'marathi': 'mr', 'meiteilon (manipuri)': 'mni-Mtei', 'mizo': 'lus', 'mongolian': 'mn', 'myanmar': 'my', 'nepali': 'ne', 'norwegian': 'no', 'odia (oriya)': 'or', 'oromo': 'om', 'pashto': 'ps', 'persian': 'fa', 'polish': 'pl', 'portuguese': 'pt', 'punjabi': 'pa', 'quechua': 'qu', 'romanian': 'ro', 'russian': 'ru', 'samoan': 'sm', 'sanskrit': 'sa', 'scots gaelic': 'gd', 'sepedi': 'nso', 'serbian': 'sr', 'sesotho': 'st', 'shona': 'sn', 'sindhi': 'sd', 'sinhala': 'si', 'slovak': 'sk', 'slovenian': 'sl', 'somali': 'so', 'spanish': 'es', 'sundanese': 'su', 'swahili': 'sw', 'swedish': 'sv', 'tajik': 'tg', 'tamil': 'ta', 'tatar': 'tt', 'telugu': 'te', 'thai': 'th', 'tigrinya': 'ti', 'tsonga': 'ts', 'turkish': 'tr', 'turkmen': 'tk', 'twi': 'ak', 'ukrainian': 'uk', 'urdu': 'ur', 'uyghur': 'ug', 'uzbek': 'uz', 'vietnamese': 'vi', 'welsh': 'cy', 'xhosa': 'xh', 'yiddish': 'yi', 'yoruba': 'yo', 'zulu': 'zu'}
+[2025-03-24 19:06:03,150] INFO in _internal: 127.0.0.1 - - [24/Mar/2025 19:06:03] "[35m[1mPOST /translate HTTP/1.1[0m" 500 -
+[2025-03-24 19:06:13,157] INFO in _internal: 127.0.0.1 - - [24/Mar/2025 19:06:13] "POST /translate HTTP/1.1" 200 -
+[2025-03-24 19:06:22,148] INFO in _internal: 127.0.0.1 - - [24/Mar/2025 19:06:22] "POST /translate HTTP/1.1" 200 -
+[2025-03-24 19:12:13,781] INFO in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.36.162:5001
+[2025-03-24 19:12:13,784] INFO in _internal: [33mPress CTRL+C to quit[0m
+[2025-03-24 19:12:13,798] INFO in _internal:  * Restarting with stat
+[2025-03-24 19:12:14,762] WARNING in _internal:  * Debugger is active!
+[2025-03-24 19:12:14,819] INFO in _internal:  * Debugger PIN: 196-293-063
+[2025-03-24 19:12:19,080] INFO in _internal: 127.0.0.1 - - [24/Mar/2025 19:12:19] "GET / HTTP/1.1" 200 -
+[2025-03-24 19:12:26,879] INFO in _internal: 127.0.0.1 - - [24/Mar/2025 19:12:26] "POST /api/emergency/nearest HTTP/1.1" 200 -
+[2025-03-24 19:12:50,956] INFO in _internal: 127.0.0.1 - - [24/Mar/2025 19:12:50] "POST /translate HTTP/1.1" 200 -
+[2025-03-24 19:12:54,948] ERROR in app: Language detection error: 'GoogleTranslator' object has no attribute 'detect'
+[2025-03-24 19:12:54,949] INFO in _internal: 127.0.0.1 - - [24/Mar/2025 19:12:54] "[35m[1mPOST /detect-language HTTP/1.1[0m" 500 -
+[2025-03-24 19:13:00,095] INFO in _internal: 127.0.0.1 - - [24/Mar/2025 19:13:00] "GET / HTTP/1.1" 200 -
+[2025-03-24 19:13:09,632] INFO in _internal: 127.0.0.1 - - [24/Mar/2025 19:13:09] "POST /api/emergency/nearest HTTP/1.1" 200 -
