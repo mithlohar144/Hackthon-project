@@ -1,5 +1,4 @@
-![Screenshot 2025-03-24 213414](https://github.com/user-attachments/assets/b9f81c05-f669-45e2-8390-5705f0345895)
-![Screenshot 2025-03-24 213359](https://github.com/user-attachments/assets/45912efa-6fd2-4fec-8ed1-16f5ae1f2d57)
+
 # Universal Translator & Emergency Services Platform
 
 A web application that combines real-time language translation with emergency services location features.
@@ -47,7 +46,7 @@ A web application that combines real-time language translation with emergency se
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/<yourusername>/universal-translator-emergency.git
+git clone https://github.com/yourusername/universal-translator-emergency.git
 cd universal-translator-emergency
 ```
 
@@ -104,3 +103,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 This project is available on GitHub at:
 
 https://github.com/mithlohar144/universal-translator-emergency
+
+
+## Output 
+
+![Screenshot 2025-03-24 213359](https://github.com/user-attachments/assets/45912efa-6fd2-4fec-8ed1-16f5ae1f2d57)
+![Screenshot 2025-03-24 213414](https://github.com/user-attachments/assets/b9f81c05-f669-45e2-8390-5705f0345895)
+
